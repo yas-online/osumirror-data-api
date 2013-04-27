@@ -8,6 +8,7 @@
 /build
 /dist
 /tags
+*.log
 
 # OS generated files #
 ######################
