@@ -8,6 +8,7 @@
 /build
 /dist
 /tags
+*.log
 
 # OS generated files #
 ######################
@@ -19,3 +20,4 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+.idea
